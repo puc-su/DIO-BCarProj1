@@ -1,0 +1,16 @@
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\obj\Debug\net5.0\DioBCarreProj1.csproj.AssemblyReference.cache
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\obj\Debug\net5.0\DioBCarreProj1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\obj\Debug\net5.0\DioBCarreProj1.AssemblyInfoInputs.cache
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\obj\Debug\net5.0\DioBCarreProj1.AssemblyInfo.cs
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\obj\Debug\net5.0\DioBCarreProj1.csproj.CoreCompileInputs.cache
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\bin\Debug\net5.0\DioBCarreProj1.exe
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\bin\Debug\net5.0\DioBCarreProj1.deps.json
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\bin\Debug\net5.0\DioBCarreProj1.runtimeconfig.json
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\bin\Debug\net5.0\DioBCarreProj1.runtimeconfig.dev.json
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\bin\Debug\net5.0\DioBCarreProj1.dll
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\bin\Debug\net5.0\ref\DioBCarreProj1.dll
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\bin\Debug\net5.0\DioBCarreProj1.pdb
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\obj\Debug\net5.0\DioBCarreProj1.dll
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\obj\Debug\net5.0\ref\DioBCarreProj1.dll
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\obj\Debug\net5.0\DioBCarreProj1.pdb
+C:\Aulas\InnovationOne\BootCampCarrefour-C#\DioBCarreProj1\DioBCarreProj1\obj\Debug\net5.0\DioBCarreProj1.genruntimeconfig.cache
